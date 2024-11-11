@@ -33,7 +33,7 @@ function App() {
         <div
              className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat object-fill"
             style={{
-                backgroundImage: `url('/public/NTHO.gif')`,
+                backgroundImage: `url('/NTHO.gif')`,
                 
                 
             }}
